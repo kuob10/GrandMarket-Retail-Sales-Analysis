@@ -1,0 +1,11 @@
+store_id,store_name,region,manager_name
+1,Store_1,East,Manager_1
+2,Store_2,West,Manager_2
+3,Store_3,North,Manager_3
+4,Store_4,West,Manager_4
+5,Store_5,East,Manager_5
+6,Store_6,East,Manager_6
+7,Store_7,West,Manager_7
+8,Store_8,North,Manager_8
+9,Store_9,South,Manager_9
+10,Store_10,East,Manager_10
