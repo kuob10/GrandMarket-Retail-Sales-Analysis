@@ -15,7 +15,7 @@ An in-depth analysis conducted for the Head of Operations to evaluate GrandMarke
 
 
 ## Executive Summary
-
+![images alt](https://github.com/kuob10/GrandMarket-Retail-Sales-Analysis/blob/33936318c57a324a22ba7c13a489aee4ff3c87ec/Images/sales_rev_analysis.jpg)
 ### Key Findings
 
 #### Overall Performance
