@@ -217,7 +217,7 @@ An in-depth analysis conducted for the Head of Operations to evaluate GrandMarke
 
 ---
 
-### Detailed Regional Analysis
+### Region Breakdown
 
 #### 🏆 East Region
 - **Performance:** Consistently high monthly sales revenue throughout the year
