@@ -41,9 +41,8 @@ An in-depth analysis conducted for the Head of Operations to evaluate GrandMarke
 ---
 
 ## Deep Dive Analysis
-
 ### 1. Sales Trends
-
+![images alt](https://github.com/kuob10/GrandMarket-Retail-Sales-Analysis/blob/ce600cbf1149860231581a87c034f9368d7e0200/Images/sale_summary.jpg)
 #### Revenue Volatility
 
 **Patterns Observed:**
@@ -116,7 +115,7 @@ An in-depth analysis conducted for the Head of Operations to evaluate GrandMarke
 ---
 
 ## Product Performance Analysis
-
+![images alt](https://github.com/kuob10/GrandMarket-Retail-Sales-Analysis/blob/ce600cbf1149860231581a87c034f9368d7e0200/Images/product_summary.jpg)
 ### Revenue by Category
 
 #### Overall Performance
@@ -172,7 +171,7 @@ An in-depth analysis conducted for the Head of Operations to evaluate GrandMarke
 ---
 
 ## Loyalty Program Analysis
-
+![images alt](https://github.com/kuob10/GrandMarket-Retail-Sales-Analysis/blob/ce600cbf1149860231581a87c034f9368d7e0200/Images/loyalty_analysis.jpg)
 ### Critical Findings
 
 #### ⚠️ Tier Convergence Problem
@@ -206,7 +205,7 @@ An in-depth analysis conducted for the Head of Operations to evaluate GrandMarke
 ---
 
 ## Regional Performance Analysis
-
+![images alt](https://github.com/kuob10/GrandMarket-Retail-Sales-Analysis/blob/ce600cbf1149860231581a87c034f9368d7e0200/Images/Regional_rev.jpg)
 ### Regional Insights
 
 | Region | Performance | Status | Monthly Avg Revenue |
